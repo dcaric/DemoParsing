@@ -1,0 +1,31 @@
+id city,year:value1:value2;value3
+1 New York,2020:15:30;45
+2 Los Angeles,2019:12:22;33
+3 Chicago,2021:20:40;60
+4 Houston,2022:10:25;35
+5 Phoenix,2018:18:32;50
+6 Philadelphia,2023:22:28;47
+7 San Antonio,2020:14:35;49
+8 San Diego,2021:19:37;53
+9 Dallas,2019:16:29;46
+10 San Jose,2022:20:33;55
+11 Austin,2023::27;39
+12 Jacksonville,2020:17:34;51
+13 Fort Worth,2021:14:31;44
+14 Columbus,2018:15:26;41
+15 Charlotte,2019:18:30;48
+16 San Francisco,2022:21:38;59
+17 Indianapolis,2023:13:29;42
+18 Seattle,2021:16:25;45
+19 Denver,2020::;52
+20 Washington,2019:17:34;50
+21 Boston,2022:20:32;54
+22 El Paso,2023:15:27;43
+23 Nashville,2020:18:33;51
+24 Detroit,2021
+25 Oklahoma City,2019:14:30;46
+26 Portland,2022:19:35;54
+27 Las Vegas,2023:21:37;58
+28 Memphis,2020:12:26;38
+29 Louisville,2018:13:24;37
+30 Baltimore,2019:16:31;47
